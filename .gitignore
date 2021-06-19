@@ -1,0 +1,5 @@
+node_modules
+.heroku/
+.profile.d/
+vendor/
+nano/
